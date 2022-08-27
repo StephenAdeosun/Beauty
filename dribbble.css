@@ -1,0 +1,362 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@500&family=Poppins&display=swap');
+*{
+   margin: 0 auto;
+   padding: 0px;
+   /* font-family: 'DynaPuff', cursive; */
+/* font-family: 'Poppins', sans-serif; */
+}
+header{
+   background-color: none;
+   max-width: 1424px;
+   margin: 0 auto;
+   margin-top: 30px;
+   
+
+}
+.starter{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin-bottom: 2px;
+   /* margin-left: 20000p; */
+   }
+   ul{
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin-left:120px ;
+list-style-type: none;
+}
+.car{
+   margin-left: 200px;
+}
+.starter h2{
+   margin-right:30px;
+   color: red;
+}
+.starter  button{
+   border: 100%;
+   color:black;
+   border: 5px solid red;
+   background-color:red;
+   border-radius: 100%;
+}
+
+
+li a{
+   margin-left: 70px;
+   text-decoration: none;
+}
+li a:hover{
+   color: red;
+   transition: 0.4s;
+
+}
+
+.beautifulimg{
+  
+  height: 200px;
+  width:-20px;
+   /* margin-top: 100px; */
+margin-left:-70px;
+
+}
+.slash{ 
+font-family: monospace;
+margin-left: -10px;
+margin-top: -1px;
+/* display: flex; */
+/* align-items: center; */
+}
+.first{
+   font-size:50px ;
+   margin-left: 50px;
+   margin-top: -20px;
+   margin-bottom: 30px;
+
+}
+.nxt{
+   font-size: 14px;
+   line-height: 20px;
+   margin-left: 55px;
+
+}
+.slash h6{
+   font-size: 12px;
+   color: red;
+   margin-left:55px;
+   margin-bottom: 20px;
+   margin-bottom: 30px;
+   
+}
+.slash button{
+   background: red;
+   /* border-width: 30px; */
+   border: 0.5px solid black;
+   width: 180px;
+   height: 50px;
+   border-radius: 50px;
+   margin-left: 55px;
+   font-size:medium;
+   font-weight: 100;
+opacity: 0.6;
+margin-top: 40px;
+}
+.slash button:hover{
+   transition: 0.4s;
+   color: red;
+   border-color: red;
+   background: none;
+}
+.second{
+margin-top: 30px;
+display: flex;
+justify-content: space-between;
+margin-left: 85px;
+max-width: 1424px;
+/* align-items: center; */
+}
+.int{
+ display: flex;
+ justify-content: space-between;
+ margin: 0 auto;  
+max-width: 1424px;
+margin-top: 70px;
+}
+.her{
+   margin-top: 150px;
+}
+.int {
+   margin-left: 20px;
+   display: flex;
+   justify-content: space-between;
+   font-family: 'Courier New', Courier, monospace;
+   
+}
+.pure h2{
+   font-size: 40px;
+   margin-bottom: 30px;
+}
+.pure p{
+   margin-right: 70px;
+   line-height: 25px;
+}
+.intel{
+   margin-right: 20px;
+
+   /* border-radius: 20px; */
+}
+.pure button{
+   width: 180px;
+   height: 50px;
+   border-radius:50px ;
+   margin-right: 55px;
+   font-size:medium;
+   font-weight: 100;
+opacity: 0.6;
+margin-top: 35px;
+color:red ;
+background: black;
+border: 1.5px solid rgb(236, 10, 10);
+}
+.pure button:hover{
+   color:black;
+   transition: 0.4s;
+   border-color: black;
+background: red;
+}
+.reckon{
+   margin-top: 30px;
+}
+
+.reck{
+   display: flex;
+   margin-top: 50px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+}
+.reck h1{
+   margin-left: 50px;
+   
+}
+.reck a{
+   margin-left: 20px;
+   color: red;
+}
+.reck a:hover{
+   color: black;
+   opacity: 1.4;
+transition: 0.8s;
+   
+}
+.item{
+display: flex;
+}
+.alone{
+   font-weight: 1000;
+   font-size: xx-large;
+
+   margin-top: 30px;
+   margin-bottom: 90px;
+   margin-left: 25px;
+}
+
+
+.stopper{
+   margin-top: 40px;
+   margin-left: 25px;
+   display: flex;
+   /* margin-right: 50px; */
+}
+.lastla{
+   margin-top: 5px;
+   margin-right: 20px;
+   margin-left: 50px;
+}
+.cops h3{
+   font-size:48px;
+   color: red;
+   margin-bottom: 30px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.cops p{
+   line-height: 25px;
+   font-size: large;
+}
+.cops button{
+   width: 180px;
+   height: 50px;
+   border-radius: 50px;
+   margin-top: 50px;
+   color:white;
+   background:black ;
+
+}
+.cops button:hover{
+   color: blanchedalmond;
+   background:red;
+   border: 1px solid red;
+   transition: 0.4s;
+}
+.cilo{
+   margin-top: 30px;
+}
+.time{
+   display: flex;
+   margin-top:70px ;
+   /* margin-right: 30px; */
+}
+.makeup{
+   margin-right: 70px;
+   margin-left: 20px;
+}
+.makeupin{
+   margin-right: 30px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.makeupin h2{
+   font-size: 50px;
+   color: red;
+   font-weight: bolder;
+   margin-bottom: 40px;
+}
+.makeupin p{
+   font-size: 14px;
+}
+.makeupin button{
+   width: 180px;
+   height: 50px;
+   border-radius: 50px;
+   margin-top: 60px;
+   color: black;
+   background-color: red;
+   border: 0.5px solid red;
+}
+.makeupin button:hover{
+   color:white;
+   background-color:blue;
+   transition: 0.4s;
+   border: 1px solid blue;
+}
+.days{
+   margin-top: 30px;
+}
+.prosp{
+   display: flex;
+   margin-top: 70px;
+   margin-left: 25px;
+   margin-right: 30px;
+}
+.play h2{
+   color: red;
+   font-size: 60px;
+   margin-bottom: 35px;
+}
+.play p{
+   line-height: 27px;
+}
+.play button{
+   width: 180px;
+   height: 50px;
+   color: blue;
+   background: white;
+   border-radius: 50px;
+   margin-top: 100px;
+   border: 0.5px solid blue;
+}
+.play button:hover{
+   transition: 0.4s;
+   color: white;
+   background: red;
+   border: red;
+}
+.orji{
+   margin-top: 40px;
+}
+.kolp{
+   display: flex;
+margin-top: 50px;
+margin-left: 25px;
+margin-right: 30px;
+}
+.socc{
+   margin-right: 48px;
+}
+.pint h2{
+   font-size: 55px;
+   color: red;
+   margin-bottom: 30px;
+
+}
+.pint p{
+   line-height: 30px;
+}
+.pint button{
+   margin-top: 70px;
+   width: 180px;
+height: 50px;
+border-radius: 50px;
+color: black;
+background: whitesmoke;
+}
+.pint button:hover{
+   transition: 0.4s;
+   color: black;
+   background-color: red;
+   border: 0.5px solid red;
+}
+.lastly{
+   background: red;
+   margin-top: 50px;
+   padding: 30px;
+   color: bisque;
+}
+.lastly h2{
+   margin-left: 550px;
+   margin-bottom: 20px;
+}
+.lastly p{
+   margin-left: 530px;
+   line-height: 40px;
+   /* word-spacing: 30px; */
+}
