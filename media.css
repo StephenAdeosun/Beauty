@@ -1,0 +1,10 @@
+@media screen and (max-width:1050px) {
+    .int, .second, .stopper, .time, .prosp, .kolp{
+        flex-direction: column;
+    }
+}
+@media screen and (max-width:900px) {
+    ul{
+        display:none;
+    }
+}
